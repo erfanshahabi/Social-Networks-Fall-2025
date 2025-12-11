@@ -18,7 +18,7 @@ This project implements and analyzes the scaling behavior of average shortest pa
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <yhttps://github.com/erfanshahabi/Social-Networks-Fall-2025.git>
 cd Social-Network-Fall-2025
 ```
 
