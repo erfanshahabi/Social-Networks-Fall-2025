@@ -14,3 +14,4 @@ data/*.csv
 *.egg-info/
 dist/
 build/
+code/venv/
